@@ -65,6 +65,5 @@ static void __exit dumbfs_exit(void) {
 module_init(dumbfs_init);
 module_exit(dumbfs_exit);
 
-MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("GABRIEL MOUGARD");
 MODULE_DESCRIPTION("A dumb file system");

@@ -148,8 +148,3 @@ struct dumbfs_extent
     * Directory will be full if more than 128 files
     * Fail to show `.` and `..` with `ls -a` command
 - journalling support
-
-## License
-
-`dumbfs` is released under the BSD 2 clause license. Use of this source code is governed by
-a BSD-style license that can be found in the LICENSE file.l
